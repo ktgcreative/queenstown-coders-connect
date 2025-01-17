@@ -1,36 +1,110 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Queenstown Coders Connect (QTCC) 🏔️
 
-## Getting Started
+The official website for Queenstown's tech community. Built with Next.js, TypeScript, and Tailwind CSS.
 
-First, run the development server:
+## 🌟 Features
 
+- Modern, responsive design
+- Interactive code examples
+- Community-driven content
+- Event management
+- Newsletter integration
+- Social platform connections
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+- Git
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ktgcreative/queenstown-coders-connect
+cd qtcc-open-source
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤝 Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+We love contributions! Here's how you can help:
 
-## Learn More
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-To learn more about Next.js, take a look at the following resources:
+### Development Guidelines
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Follow the existing code style and conventions
+- Write meaningful commit messages
+- Update documentation as needed
+- Add tests for new features (when applicable)
+- Ensure your code passes all tests
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📁 Project Structure
 
-## Deploy on Vercel
+```
+qtcc-open-source/
+├── app/                    # Next.js app directory
+├── components/            # React components
+│   ├── (landing-page)/   # Landing page components
+│   └── shared/           # Shared/reusable components
+├── public/               # Static files
+├── styles/              # Global styles
+└── utils/               # Utility functions
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Motion](https://motion.dev/) - Animations
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons
+
+
+## 🤝 Community
+
+- Attend our meetups in Queenstown
+
+## 🙋‍♂️ Support
+
+Got questions? Need help? You can:
+
+1. Open an issue
+2. Join our WhatsApp group
+
+## ✨ Contributors
+
+Thanks goes to these wonderful people:
+
+## 🎉 Acknowledgments
+
+- All our community members
+- Contributors and maintainers
+- Queenstown's tech community
+
+---
+
+Made with ❤️ in Queenstown, New Zealand
+# queenstown-coders-connect
