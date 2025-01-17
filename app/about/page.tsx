@@ -5,6 +5,14 @@ import BackgroundGridBeams from "@/components/shared/BackgroundGridBeams";
 import AboutHero from "@/components/(about-page)/AboutHero";
 import MissionSection from "@/components/(about-page)/MissionSection";
 import ValuesSection from "@/components/(about-page)/ValuesSection";
+import { Metadata } from "next";
+import { createMetadata } from "@/utils/metadata";
+
+export const metadata: Metadata = createMetadata({
+    title: "About",
+    description: "Learn about QT Coders, a vibrant tech community bringing together developers, data scientists, and tech enthusiasts in Queenstown, New Zealand.",
+    keywords: ["tech meetups", "Queenstown tech", "developer community", "tech events Queenstown"]
+});
 
 export default function AboutPage() {
     return (
