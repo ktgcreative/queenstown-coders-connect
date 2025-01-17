@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import BackgroundGridBeams from "@/components/shared/BackgroundGridBeams";
 import AboutHero from "@/components/(about-page)/AboutHero";
