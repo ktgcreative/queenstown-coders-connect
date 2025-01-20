@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
 import Navbar from "../components/shared/Navbar";
+import { GoogleTagManager } from '@next/third-parties/google'
+
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -45,6 +47,7 @@ export default function RootLayout({
 
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
+      <GoogleTagManager gtmId="GTM-P8RZBHGV" />
       <body className={poppins.className}>
         <Navbar />
         {children}
