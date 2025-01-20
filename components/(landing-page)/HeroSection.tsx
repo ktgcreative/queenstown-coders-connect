@@ -50,7 +50,7 @@ community.join(developer)
             }
         ],
         githubLink: {
-            url: "https://github.com/qt-coders/community",
+            url: "https://github.com/Queenstown-Coders-Connect",
             stars: 42
         }
     }
