@@ -24,7 +24,7 @@ The official website for Queenstown's tech community. Built with Next.js, TypeSc
 1. Clone the repository:
 ```bash
 git clone https://github.com/ktgcreative/queenstown-coders-connect
-cd qtcc-open-source
+cd queenstown-coders-connect
 ```
 
 2. Install dependencies:
@@ -97,6 +97,7 @@ Got questions? Need help? You can:
 ## ✨ Contributors
 
 Thanks goes to these wonderful people:
+[TBC]
 
 ## 🎉 Acknowledgments
 
