@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@next/third-parties": "^15.1.5",
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.48.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.18.1",
     "motion": "^11.18.1",
